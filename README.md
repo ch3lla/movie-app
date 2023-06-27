@@ -14,3 +14,7 @@ Key Features:
 - Powered by React, Spring Boot, and MongoDB.
 
 Enjoy discovering popular movie reviews and trailers with Movie Review Hub!
+
+
+## Live Demo
+https://roaring-pasca-f4209a.netlify.app/
