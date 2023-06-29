@@ -1,5 +1,6 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL:"https://movie-app-chella.netlify.app"
+    baseURL:"https://movie-app-chella.netlify.app",
+    headers: {"skip-browser-warning": "true"}
 });
