@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = {"http://localhost:3000", "https://roaring-pasca-f4209a.netlify.app/"})
 @RequestMapping("/api/v1/movies")
 public class MovieController {
     @Autowired
