@@ -19,7 +19,7 @@ public class MovieAppApplication {
 			@Override
 			public void addCorsMappings(CorsRegistry registry) {
 				registry.addMapping("/**")
-						.allowedOrigins("https://movie-app-chella.netlify.app")
+						.allowedOrigins("* ")
 						.allowedMethods("*")
 						.allowedHeaders("*")
 						.allowCredentials(false).maxAge(3600);
