@@ -19,7 +19,7 @@ public class MovieAppApplication {
 			@Override
 			public void addCorsMappings(CorsRegistry registry) {
 				registry.addMapping("/**")
-						.allowedOrigins("* ")
+						.allowedOrigins("*")
 						.allowedMethods("*")
 						.allowedHeaders("*")
 						.allowCredentials(false).maxAge(3600);
