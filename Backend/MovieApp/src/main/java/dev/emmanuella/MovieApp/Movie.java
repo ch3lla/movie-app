@@ -11,7 +11,7 @@ import org.springframework.data.mongodb.core.mapping.DocumentReference;
 
 import java.util.List;
 
-@Document(collection = "movies")
+@Document(collection="movies")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
