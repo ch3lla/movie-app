@@ -17,5 +17,4 @@ Key Features:
 Enjoy discovering popular movie reviews and trailers with Movie Review Hub!
 
 ## Live Demo
-
 https://movie-app-chella.netlify.app
