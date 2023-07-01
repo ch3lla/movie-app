@@ -10,6 +10,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 public class MovieAppApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(MovieAppApplication.class, args);
 	}
 	@Bean
