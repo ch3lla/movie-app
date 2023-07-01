@@ -9,12 +9,13 @@ Movie Review Hub is a web application that provides users with access to popular
 - Database: MongoDB
 
 Key Features:
+
 - Browse popular movie reviews and trailers.
 - Intuitive user interface with interactive features.
 - Powered by React, Spring Boot, and MongoDB.
 
 Enjoy discovering popular movie reviews and trailers with Movie Review Hub!
 
-
 ## Live Demo
-https://roaring-pasca-f4209a.netlify.app/
+
+https://movie-app-chella.netlify.app
